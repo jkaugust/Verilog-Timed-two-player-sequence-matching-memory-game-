@@ -1,0 +1,2 @@
+# Verilog-Timed-two-player-sequence-matching-memory-game-
+Displayed an alphanumeric sequence in time intervals; obtained the element in specified position Built a RTL design of the interactive memory game with 70% re-usage of hardware components in the FPGA Enhanced the game to various difficulty levels by reducing the time interval; Authorized players using RAM and ROM  and is currently working on verification using SystemVerilog testbenches.
